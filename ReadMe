@@ -1,0 +1,6 @@
+Folder                        Purpose
+Adults Age 20 to 64           Includes programs and an implementation guide necessary to execute CODI-PQ for Adults Age 20 - 64
+Households                    Includes programs and an implementation guide necessary to execute CODI-HPQ for Households
+Youth and Teens               Includes programs and an implementation guide necessary to execute CODI-PQ for Youth and Teens
+
+For More Information, See mitre/codi on GitHub https://github.com/mitre/codi and mitre/growthcleanr https://github.com/mitre/growthcleanr.
